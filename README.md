@@ -1,6 +1,7 @@
 # WorkDayScheduler
 <p>This is a Work Day Scheduler where you can store your daily objectives in the given time slots and your information will be saved in the local storage of your browser. The colors of the time slots will change depending on the current time of the day.</p>
-<ul>
+<h3>List of technologies used for this project<h3>
+    <ul>
       <li>HTML
       <li>JavaScript
       <li>CSS(Styling)
