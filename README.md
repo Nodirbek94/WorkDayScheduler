@@ -8,3 +8,4 @@
       <li>Local Storage
       <ul>
 <img src="./Assets/Screen%20Shot%202020-09-10%20at%2010.01.26%20PM.png" alt="Work day scheduler calender">
+Deployed Link: https://nodirbek94.github.io/WorkDayScheduler/          
